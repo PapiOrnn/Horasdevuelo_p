@@ -30,6 +30,7 @@ function App() {
           <div className="md:w-1/2">
           <div className="my-4 mx-auto md:w-1/2">
             <img src={plan1} alt="" className="" />
+    <p> Albert Huarcaya </p>
           </div>
             
           </div>
